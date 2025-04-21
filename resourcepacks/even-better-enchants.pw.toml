@@ -1,0 +1,13 @@
+name = "Even Better Enchants"
+filename = "EBE_1.20.x_v1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8a27c246bc45d80c3abc4002e06c2ff3b400129b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4580730
+project-id = 639779
