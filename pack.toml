@@ -1,12 +1,11 @@
-name = "SAGAMC Modpack"
-author = "PaperBoss4000"
+name = "ModdedSaga 1.0.2-noconfig"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8fe7309665271720129943125c5d81e0494fc476f4fb19118cb94c34fa7167e7"
+hash = "b85bd2080930359139f8c785d67375d084e4b2bb2dd75669853225175ea62fea"
 
 [versions]
 forge = "47.4.0"
