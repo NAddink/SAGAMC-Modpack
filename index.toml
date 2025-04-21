@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "bec3e5b4e14e73407252ccca8dfbb5dee7b3f672749caf0ce8362c451b85f92a"
-
-[[files]]
 file = "mods/.connector/continuity-3.0.0+1.20.1.forge_mapped_srg_1.20.1.jar"
 hash = "aa18bef1c6badebf58da08c472a758e32f7115cc54397bcd7558436dc39728fb"
 
